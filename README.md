@@ -1,5 +1,5 @@
 # ROS-robot
-Custom Robot deisgned with Solidworks and set-up and simulated with ROS to participaye in the Robot fighting league at the University of Leeds.
+Custom Robot deisgned with Solidworks and set-up and simulated with ROS to be used in the Robot Fighting League event at the University of Leeds.
 
 ![Picture1](https://user-images.githubusercontent.com/66371106/233323498-effb1e42-e392-4843-9c8a-39e7c93d0ef1.png)
 
